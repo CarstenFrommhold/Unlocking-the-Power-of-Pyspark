@@ -1,0 +1,262 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG
+D1,05/08/2022,19:30,Ein Frankfurt,Bayern Munich,1,6
+D1,06/08/2022,14:30,Augsburg,Freiburg,0,4
+D1,06/08/2022,14:30,Bochum,Mainz,1,2
+D1,06/08/2022,14:30,M'gladbach,Hoffenheim,3,1
+D1,06/08/2022,14:30,Union Berlin,Hertha,3,1
+D1,06/08/2022,14:30,Wolfsburg,Werder Bremen,2,2
+D1,06/08/2022,17:30,Dortmund,Leverkusen,1,0
+D1,07/08/2022,14:30,Stuttgart,RB Leipzig,1,1
+D1,07/08/2022,16:30,FC Koln,Schalke 04,3,1
+D1,12/08/2022,19:30,Freiburg,Dortmund,1,3
+D1,13/08/2022,14:30,Hertha,Ein Frankfurt,1,1
+D1,13/08/2022,14:30,Hoffenheim,Bochum,3,2
+D1,13/08/2022,14:30,Leverkusen,Augsburg,1,2
+D1,13/08/2022,14:30,RB Leipzig,FC Koln,2,2
+D1,13/08/2022,14:30,Werder Bremen,Stuttgart,2,2
+D1,13/08/2022,17:30,Schalke 04,M'gladbach,2,2
+D1,14/08/2022,14:30,Mainz,Union Berlin,0,0
+D1,14/08/2022,16:30,Bayern Munich,Wolfsburg,2,0
+D1,19/08/2022,19:30,M'gladbach,Hertha,1,0
+D1,20/08/2022,14:30,Augsburg,Mainz,1,2
+D1,20/08/2022,14:30,Dortmund,Werder Bremen,2,3
+D1,20/08/2022,14:30,Leverkusen,Hoffenheim,0,3
+D1,20/08/2022,14:30,Stuttgart,Freiburg,0,1
+D1,20/08/2022,14:30,Wolfsburg,Schalke 04,0,0
+D1,20/08/2022,17:30,Union Berlin,RB Leipzig,2,1
+D1,21/08/2022,14:30,Ein Frankfurt,FC Koln,1,1
+D1,21/08/2022,16:30,Bochum,Bayern Munich,0,7
+D1,26/08/2022,19:30,Freiburg,Bochum,1,0
+D1,27/08/2022,14:30,Hertha,Dortmund,0,1
+D1,27/08/2022,14:30,Hoffenheim,Augsburg,1,0
+D1,27/08/2022,14:30,Mainz,Leverkusen,0,3
+D1,27/08/2022,14:30,RB Leipzig,Wolfsburg,2,0
+D1,27/08/2022,14:30,Schalke 04,Union Berlin,1,6
+D1,27/08/2022,17:30,Bayern Munich,M'gladbach,1,1
+D1,28/08/2022,14:30,FC Koln,Stuttgart,0,0
+D1,28/08/2022,16:30,Werder Bremen,Ein Frankfurt,3,4
+D1,02/09/2022,19:30,Dortmund,Hoffenheim,1,0
+D1,03/09/2022,14:30,Bochum,Werder Bremen,0,2
+D1,03/09/2022,14:30,Leverkusen,Freiburg,2,3
+D1,03/09/2022,14:30,Stuttgart,Schalke 04,1,1
+D1,03/09/2022,14:30,Union Berlin,Bayern Munich,1,1
+D1,03/09/2022,14:30,Wolfsburg,FC Koln,2,4
+D1,03/09/2022,17:30,Ein Frankfurt,RB Leipzig,4,0
+D1,04/09/2022,14:30,Augsburg,Hertha,0,2
+D1,04/09/2022,16:30,M'gladbach,Mainz,0,1
+D1,09/09/2022,19:30,Werder Bremen,Augsburg,0,1
+D1,10/09/2022,14:30,Bayern Munich,Stuttgart,2,2
+D1,10/09/2022,14:30,Ein Frankfurt,Wolfsburg,0,1
+D1,10/09/2022,14:30,Hertha,Leverkusen,2,2
+D1,10/09/2022,14:30,Hoffenheim,Mainz,4,1
+D1,10/09/2022,14:30,RB Leipzig,Dortmund,3,0
+D1,10/09/2022,17:30,Schalke 04,Bochum,3,1
+D1,11/09/2022,14:30,FC Koln,Union Berlin,0,1
+D1,11/09/2022,16:30,Freiburg,M'gladbach,0,0
+D1,16/09/2022,19:30,Mainz,Hertha,1,1
+D1,17/09/2022,14:30,Augsburg,Bayern Munich,1,0
+D1,17/09/2022,14:30,Dortmund,Schalke 04,1,0
+D1,17/09/2022,14:30,Leverkusen,Werder Bremen,1,1
+D1,17/09/2022,14:30,Stuttgart,Ein Frankfurt,1,3
+D1,17/09/2022,17:30,M'gladbach,RB Leipzig,3,0
+D1,18/09/2022,14:30,Union Berlin,Wolfsburg,2,0
+D1,18/09/2022,16:30,Bochum,FC Koln,1,1
+D1,18/09/2022,18:30,Hoffenheim,Freiburg,0,0
+D1,30/09/2022,19:30,Bayern Munich,Leverkusen,4,0
+D1,01/10/2022,14:30,Ein Frankfurt,Union Berlin,2,0
+D1,01/10/2022,14:30,FC Koln,Dortmund,3,2
+D1,01/10/2022,14:30,Freiburg,Mainz,2,1
+D1,01/10/2022,14:30,RB Leipzig,Bochum,4,0
+D1,01/10/2022,14:30,Wolfsburg,Stuttgart,3,2
+D1,01/10/2022,17:30,Werder Bremen,M'gladbach,5,1
+D1,02/10/2022,14:30,Hertha,Hoffenheim,1,1
+D1,02/10/2022,16:30,Schalke 04,Augsburg,2,3
+D1,07/10/2022,19:30,Hoffenheim,Werder Bremen,1,2
+D1,08/10/2022,14:30,Augsburg,Wolfsburg,1,1
+D1,08/10/2022,14:30,Bochum,Ein Frankfurt,3,0
+D1,08/10/2022,14:30,Leverkusen,Schalke 04,4,0
+D1,08/10/2022,14:30,Mainz,RB Leipzig,1,1
+D1,08/10/2022,17:30,Dortmund,Bayern Munich,2,2
+D1,09/10/2022,14:30,M'gladbach,FC Koln,5,2
+D1,09/10/2022,16:30,Hertha,Freiburg,2,2
+D1,09/10/2022,18:30,Stuttgart,Union Berlin,0,1
+D1,14/10/2022,19:30,Schalke 04,Hoffenheim,0,3
+D1,15/10/2022,14:30,Ein Frankfurt,Leverkusen,5,1
+D1,15/10/2022,14:30,Stuttgart,Bochum,4,1
+D1,15/10/2022,14:30,Werder Bremen,Mainz,0,2
+D1,15/10/2022,14:30,Wolfsburg,M'gladbach,2,2
+D1,15/10/2022,17:30,RB Leipzig,Hertha,3,2
+D1,16/10/2022,14:30,FC Koln,Augsburg,3,2
+D1,16/10/2022,16:30,Union Berlin,Dortmund,2,0
+D1,16/10/2022,18:30,Bayern Munich,Freiburg,5,0
+D1,21/10/2022,19:30,Mainz,FC Koln,5,0
+D1,22/10/2022,14:30,Augsburg,RB Leipzig,3,3
+D1,22/10/2022,14:30,Dortmund,Stuttgart,5,0
+D1,22/10/2022,14:30,Freiburg,Werder Bremen,2,0
+D1,22/10/2022,14:30,Hoffenheim,Bayern Munich,0,2
+D1,22/10/2022,14:30,Leverkusen,Wolfsburg,2,2
+D1,22/10/2022,17:30,M'gladbach,Ein Frankfurt,1,3
+D1,23/10/2022,14:30,Bochum,Union Berlin,2,1
+D1,23/10/2022,16:30,Hertha,Schalke 04,2,1
+D1,28/10/2022,19:30,Werder Bremen,Hertha,1,0
+D1,29/10/2022,14:30,Bayern Munich,Mainz,6,2
+D1,29/10/2022,14:30,RB Leipzig,Leverkusen,2,0
+D1,29/10/2022,14:30,Stuttgart,Augsburg,2,1
+D1,29/10/2022,14:30,Wolfsburg,Bochum,4,0
+D1,29/10/2022,17:30,Ein Frankfurt,Dortmund,1,2
+D1,30/10/2022,14:30,Union Berlin,M'gladbach,2,1
+D1,30/10/2022,16:30,Schalke 04,Freiburg,0,2
+D1,30/10/2022,18:30,FC Koln,Hoffenheim,1,1
+D1,04/11/2022,19:30,M'gladbach,Stuttgart,3,1
+D1,05/11/2022,14:30,Augsburg,Ein Frankfurt,1,2
+D1,05/11/2022,14:30,Dortmund,Bochum,3,0
+D1,05/11/2022,14:30,Hertha,Bayern Munich,2,3
+D1,05/11/2022,14:30,Hoffenheim,RB Leipzig,1,3
+D1,05/11/2022,14:30,Mainz,Wolfsburg,0,3
+D1,05/11/2022,17:30,Werder Bremen,Schalke 04,2,1
+D1,06/11/2022,14:30,Leverkusen,Union Berlin,5,0
+D1,06/11/2022,16:30,Freiburg,FC Koln,2,0
+D1,08/11/2022,17:30,Wolfsburg,Dortmund,2,0
+D1,08/11/2022,19:30,Bayern Munich,Werder Bremen,6,1
+D1,08/11/2022,19:30,Bochum,M'gladbach,2,1
+D1,08/11/2022,19:30,Stuttgart,Hertha,2,1
+D1,09/11/2022,17:30,FC Koln,Leverkusen,1,2
+D1,09/11/2022,19:30,Ein Frankfurt,Hoffenheim,4,2
+D1,09/11/2022,19:30,RB Leipzig,Freiburg,3,1
+D1,09/11/2022,19:30,Schalke 04,Mainz,1,0
+D1,09/11/2022,19:30,Union Berlin,Augsburg,2,2
+D1,11/11/2022,19:30,M'gladbach,Dortmund,4,2
+D1,12/11/2022,14:30,Augsburg,Bochum,0,1
+D1,12/11/2022,14:30,Hertha,FC Koln,2,0
+D1,12/11/2022,14:30,Hoffenheim,Wolfsburg,1,2
+D1,12/11/2022,14:30,Leverkusen,Stuttgart,2,0
+D1,12/11/2022,14:30,Werder Bremen,RB Leipzig,1,2
+D1,12/11/2022,17:30,Schalke 04,Bayern Munich,0,2
+D1,13/11/2022,14:30,Mainz,Ein Frankfurt,1,1
+D1,13/11/2022,16:30,Freiburg,Union Berlin,4,1
+D1,20/01/2023,19:30,RB Leipzig,Bayern Munich,1,1
+D1,21/01/2023,14:30,Bochum,Hertha,3,1
+D1,21/01/2023,14:30,Ein Frankfurt,Schalke 04,3,0
+D1,21/01/2023,14:30,Stuttgart,Mainz,1,1
+D1,21/01/2023,14:30,Union Berlin,Hoffenheim,3,1
+D1,21/01/2023,14:30,Wolfsburg,Freiburg,6,0
+D1,21/01/2023,17:30,FC Koln,Werder Bremen,7,1
+D1,22/01/2023,14:30,Dortmund,Augsburg,4,3
+D1,22/01/2023,16:30,M'gladbach,Leverkusen,2,3
+D1,24/01/2023,17:30,Schalke 04,RB Leipzig,1,6
+D1,24/01/2023,19:30,Bayern Munich,FC Koln,1,1
+D1,24/01/2023,19:30,Hertha,Wolfsburg,0,5
+D1,24/01/2023,19:30,Hoffenheim,Stuttgart,2,2
+D1,25/01/2023,17:30,Mainz,Dortmund,1,2
+D1,25/01/2023,19:30,Augsburg,M'gladbach,1,0
+D1,25/01/2023,19:30,Freiburg,Ein Frankfurt,1,1
+D1,25/01/2023,19:30,Leverkusen,Bochum,2,0
+D1,25/01/2023,19:30,Werder Bremen,Union Berlin,1,2
+D1,27/01/2023,19:30,RB Leipzig,Stuttgart,2,1
+D1,28/01/2023,14:30,Freiburg,Augsburg,3,1
+D1,28/01/2023,14:30,Hertha,Union Berlin,0,2
+D1,28/01/2023,14:30,Hoffenheim,M'gladbach,1,4
+D1,28/01/2023,14:30,Mainz,Bochum,5,2
+D1,28/01/2023,14:30,Werder Bremen,Wolfsburg,2,1
+D1,28/01/2023,17:30,Bayern Munich,Ein Frankfurt,1,1
+D1,29/01/2023,14:30,Schalke 04,FC Koln,0,0
+D1,29/01/2023,16:30,Leverkusen,Dortmund,0,2
+D1,03/02/2023,19:30,Augsburg,Leverkusen,1,0
+D1,04/02/2023,14:30,Bochum,Hoffenheim,5,2
+D1,04/02/2023,14:30,Dortmund,Freiburg,5,1
+D1,04/02/2023,14:30,Ein Frankfurt,Hertha,3,0
+D1,04/02/2023,14:30,FC Koln,RB Leipzig,0,0
+D1,04/02/2023,14:30,Union Berlin,Mainz,2,1
+D1,04/02/2023,17:30,M'gladbach,Schalke 04,0,0
+D1,05/02/2023,14:30,Stuttgart,Werder Bremen,0,2
+D1,05/02/2023,16:30,Wolfsburg,Bayern Munich,2,4
+D1,10/02/2023,19:30,Schalke 04,Wolfsburg,0,0
+D1,11/02/2023,14:30,Bayern Munich,Bochum,3,0
+D1,11/02/2023,14:30,Freiburg,Stuttgart,2,1
+D1,11/02/2023,14:30,Hoffenheim,Leverkusen,1,3
+D1,11/02/2023,14:30,Mainz,Augsburg,3,1
+D1,11/02/2023,14:30,Werder Bremen,Dortmund,0,2
+D1,11/02/2023,17:30,RB Leipzig,Union Berlin,1,2
+D1,12/02/2023,14:30,Hertha,M'gladbach,4,1
+D1,12/02/2023,16:30,FC Koln,Ein Frankfurt,3,0
+D1,17/02/2023,19:30,Augsburg,Hoffenheim,1,0
+D1,18/02/2023,14:30,Bochum,Freiburg,0,2
+D1,18/02/2023,14:30,M'gladbach,Bayern Munich,3,2
+D1,18/02/2023,14:30,Stuttgart,FC Koln,3,0
+D1,18/02/2023,14:30,Wolfsburg,RB Leipzig,0,3
+D1,18/02/2023,17:30,Ein Frankfurt,Werder Bremen,2,0
+D1,19/02/2023,14:30,Union Berlin,Schalke 04,0,0
+D1,19/02/2023,16:30,Dortmund,Hertha,4,1
+D1,19/02/2023,18:30,Leverkusen,Mainz,2,3
+D1,24/02/2023,19:30,Mainz,M'gladbach,4,0
+D1,25/02/2023,14:30,FC Koln,Wolfsburg,0,2
+D1,25/02/2023,14:30,Hertha,Augsburg,2,0
+D1,25/02/2023,14:30,Hoffenheim,Dortmund,0,1
+D1,25/02/2023,14:30,RB Leipzig,Ein Frankfurt,2,1
+D1,25/02/2023,14:30,Werder Bremen,Bochum,3,0
+D1,25/02/2023,17:30,Schalke 04,Stuttgart,2,1
+D1,26/02/2023,14:30,Freiburg,Leverkusen,1,1
+D1,26/02/2023,16:30,Bayern Munich,Union Berlin,3,0
+D1,03/03/2023,19:30,Dortmund,RB Leipzig,2,1
+D1,04/03/2023,14:30,Augsburg,Werder Bremen,2,1
+D1,04/03/2023,14:30,Bochum,Schalke 04,0,2
+D1,04/03/2023,14:30,Mainz,Hoffenheim,1,0
+D1,04/03/2023,14:30,M'gladbach,Freiburg,0,0
+D1,04/03/2023,14:30,Union Berlin,FC Koln,0,0
+D1,04/03/2023,17:30,Stuttgart,Bayern Munich,1,2
+D1,05/03/2023,14:30,Leverkusen,Hertha,4,1
+D1,05/03/2023,16:30,Wolfsburg,Ein Frankfurt,2,2
+D1,10/03/2023,19:30,FC Koln,Bochum,0,2
+D1,11/03/2023,14:30,Bayern Munich,Augsburg,5,3
+D1,11/03/2023,14:30,Ein Frankfurt,Stuttgart,1,1
+D1,11/03/2023,14:30,Hertha,Mainz,1,1
+D1,11/03/2023,14:30,RB Leipzig,M'gladbach,3,0
+D1,11/03/2023,17:30,Schalke 04,Dortmund,2,2
+D1,12/03/2023,14:30,Freiburg,Hoffenheim,2,1
+D1,12/03/2023,16:30,Werder Bremen,Leverkusen,2,3
+D1,12/03/2023,18:30,Wolfsburg,Union Berlin,1,1
+D1,17/03/2023,19:30,M'gladbach,Werder Bremen,2,2
+D1,18/03/2023,14:30,Augsburg,Schalke 04,1,1
+D1,18/03/2023,14:30,Bochum,RB Leipzig,1,0
+D1,18/03/2023,14:30,Hoffenheim,Hertha,3,1
+D1,18/03/2023,14:30,Stuttgart,Wolfsburg,0,1
+D1,18/03/2023,17:30,Dortmund,FC Koln,6,1
+D1,19/03/2023,14:30,Union Berlin,Ein Frankfurt,2,0
+D1,19/03/2023,16:30,Leverkusen,Bayern Munich,2,1
+D1,19/03/2023,18:30,Mainz,Freiburg,1,1
+D1,31/03/2023,19:30,Ein Frankfurt,Bochum,1,1
+D1,01/04/2023,14:30,Freiburg,Hertha,1,1
+D1,01/04/2023,14:30,RB Leipzig,Mainz,0,3
+D1,01/04/2023,14:30,Schalke 04,Leverkusen,0,3
+D1,01/04/2023,14:30,Union Berlin,Stuttgart,3,0
+D1,01/04/2023,14:30,Wolfsburg,Augsburg,2,2
+D1,01/04/2023,17:30,Bayern Munich,Dortmund,4,2
+D1,02/04/2023,14:30,FC Koln,M'gladbach,0,0
+D1,02/04/2023,16:30,Werder Bremen,Hoffenheim,1,2
+D1,08/04/2023,14:30,Augsburg,FC Koln,1,3
+D1,08/04/2023,14:30,Dortmund,Union Berlin,2,1
+D1,08/04/2023,14:30,Freiburg,Bayern Munich,0,1
+D1,08/04/2023,14:30,Leverkusen,Ein Frankfurt,3,1
+D1,08/04/2023,14:30,Mainz,Werder Bremen,2,2
+D1,08/04/2023,17:30,Hertha,RB Leipzig,0,1
+D1,09/04/2023,14:30,M'gladbach,Wolfsburg,2,0
+D1,09/04/2023,16:30,Bochum,Stuttgart,2,3
+D1,09/04/2023,18:30,Hoffenheim,Schalke 04,2,0
+D1,14/04/2023,19:30,Schalke 04,Hertha,5,2
+D1,15/04/2023,14:30,Bayern Munich,Hoffenheim,1,1
+D1,15/04/2023,14:30,FC Koln,Mainz,1,1
+D1,15/04/2023,14:30,RB Leipzig,Augsburg,3,2
+D1,15/04/2023,14:30,Stuttgart,Dortmund,3,3
+D1,15/04/2023,17:30,Ein Frankfurt,M'gladbach,1,1
+D1,16/04/2023,14:30,Werder Bremen,Freiburg,1,2
+D1,16/04/2023,16:30,Union Berlin,Bochum,1,1
+D1,16/04/2023,18:30,Wolfsburg,Leverkusen,0,0
+D1,21/04/2023,19:30,Augsburg,Stuttgart,1,1
+D1,22/04/2023,14:30,Bochum,Wolfsburg,1,5
+D1,22/04/2023,14:30,Hertha,Werder Bremen,2,4
+D1,22/04/2023,14:30,Hoffenheim,FC Koln,1,3
+D1,22/04/2023,14:30,Mainz,Bayern Munich,3,1
+D1,22/04/2023,17:30,Dortmund,Ein Frankfurt,4,0
+D1,23/04/2023,14:30,Freiburg,Schalke 04,4,0
+D1,23/04/2023,16:30,Leverkusen,RB Leipzig,2,0
+D1,23/04/2023,18:30,M'gladbach,Union Berlin,0,1
