@@ -29,7 +29,7 @@ def build_random_row(df_postal_code: pd.DataFrame = None) -> dict:
     coin = mw + 0.5 * np.random.randn()
     target = 1 if coin > 0.6 else 0
     customer_id_ = str(n1) + str(n2) + str(n3) + str(n4) + str(coin)
-    customer_id = customer_id_.__hash__()
+    customer_id = abs(customer_id_.__hash__())
 
     return {
         "customer_id": customer_id, "postal_code": postal_code,
