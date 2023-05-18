@@ -5,9 +5,7 @@
 This repo aims to cover the key concepts of Apache Spark and it's Python API, Pyspark.
 Apache Spark is an open-source unified analytics engine for large-scale data processing. 
 It consists of five components, namely *Core*, *SQL*, *ML*, *Streaming* and *GraphX*.
-Here, the first three are touched. 
-
-It was created in advance of a workshop on Pycon Lithuania in May 2023. 
+Here, the first three are touched.
 
 ## What to expect
 
@@ -17,7 +15,10 @@ It was created in advance of a workshop on Pycon Lithuania in May 2023.
 
 ## Setup
 
-To be able to start with the content you can either build a virtual environment with the corresponding dependencies via 
+To be able to start with the content, there are several options.
+
+Option 1)   
+You can build a virtual environment with the corresponding dependencies via
 poetry or requirements.
 
 ```bash
@@ -25,7 +26,9 @@ poetry install
 jupyter lab
 ```
 
+Option 2)  
 As an alternative, you can start it directly via docker.
+
 
 ``` bash
 docker build -t tutorial .
@@ -34,6 +37,15 @@ docker build -t tutorial .
 ``` bash
 docker run -p 8888:8888 tutorial
 ```
+
+Option 3)  
+Do it directly in Google Colab.
+
+* [Principles Notebook](https://colab.research.google.com/drive/1bR6bSXXpiPCEUI6MIXy6LCsFT7dS6fQq?usp=sharing)  
+* [ML Notebook](https://colab.research.google.com/drive/1Hw83ROwYTioPq3iSEHyqSJmOanijWZ77?usp=sharing)  
+* [Cloud Motivation](https://colab.research.google.com/drive/187vFM9ROGl091RCYz4jixYotdXCFu-2C?usp=sharing)  
+
+
 
 ## Is this really Python?
 
